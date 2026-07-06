@@ -1,0 +1,12 @@
+# local editor/agent state
+.claude/settings.local.json
+.vscode/
+.idea/
+
+# secrets
+.env
+.env.*
+
+# OS noise
+.DS_Store
+Thumbs.db
