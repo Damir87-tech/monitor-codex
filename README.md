@@ -11,6 +11,8 @@
 
 *A fire-and-forget review loop for [Claude Code](https://claude.com/claude-code): Codex reviews the PR, Claude triages and fixes the findings with reproduce-first TDD, re-triggers Codex, and repeats until the review is clean and CI is green — then notifies you and **stops**. It never merges.*
 
+![monitor-codex demo](demo.gif)
+
 </div>
 
 ---
